@@ -1,5 +1,7 @@
 # Challenge-1_Marketing-refactor
 
+https://mrdietcola.github.io/Challenge-1_Marketing-refactor/
+
 ## Description
 
 This is the first assignment for our week one activities and included refacting the HTML and CSS files to make the elements semantic and remove and duplication or redundance.
