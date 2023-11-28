@@ -1,4 +1,4 @@
-# Challenge-1_Marketing-refactor
+# Marketing-refactor
 
 https://mrdietcola.github.io/Marketing-refactor
 
