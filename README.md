@@ -1,6 +1,6 @@
 # Challenge-1_Marketing-refactor
 
-https://mrdietcola.github.io/Challenge-1_Marketing-refactor/
+https://Seidler93.github.io/Challenge-1_Marketing-refactor/
 
 ## Description
 
